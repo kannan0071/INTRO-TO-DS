@@ -64,7 +64,7 @@ We use this categorical data encoding technique when the features are nominal(do
 
   ![image](https://github.com/kannan0071/INTRO-TO-DS/assets/119641638/25b90718-0518-4bf2-9cf3-570151ded177)
 
-  ![image](https://github.com/kannan0071/INTRO-TO-DS/assets/119641638/4217de70-74eb-4cf4-91ad-aaf04f7d332d)
+  ![image](https://github.com/kannan0071/INTRO-TO-DS/assets/119641638/25a37619-ec74-4269-82b6-6cd7bd530ce5)
 
   ![image](https://github.com/kannan0071/INTRO-TO-DS/assets/119641638/81e7e757-a4c4-48cf-858b-11f58247088f)
 
