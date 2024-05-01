@@ -1,5 +1,4 @@
-# Ex.No-5 DATA VISUALIZATION USING MATPLOT LIBRARY
-
+# Ex.No-5 Data visualization using MatplotLIB Library
 ### Aim:
   To Perform Data Visualization using matplot python library for the given datas.
 
