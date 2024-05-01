@@ -1,11 +1,12 @@
 # Ex.No2-EDA Analysis using Python
-# AIM:
+
+### AIM:
       To perform Exploratory Data Analysis on the given data set.
       
-# EXPLANATION:
+### EXPLANATION:
   The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
   
-# ALGORITHM:
+### ALGORITHM:
 STEP 1: Import the required packages to perform Data Cleansing,Removing Outliers and Exploratory Data Analysis.
 
 STEP 2: Replace the null value using any one of the method from mode,median and mean based on the dataset available.
@@ -22,7 +23,7 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
-## CODING AND OUTPUT
+### CODING AND OUTPUT
        
 ![image](https://github.com/kannan0071/INTRO-TO-DS/assets/119641638/fdfbd6a7-73d7-488d-a1b6-10af57249afe)
 
@@ -62,5 +63,5 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ![image](https://github.com/kannan0071/INTRO-TO-DS/assets/119641638/e00135e3-e093-4561-81eb-f72b2a1a1c91)
 
-# RESULT
+### RESULT
     Thus the Exploratory Data Analysis on the given data set was successfully performed.
