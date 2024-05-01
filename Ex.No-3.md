@@ -1,16 +1,16 @@
 # Ex.No-3 Feature Encoding and Transformation
 
-# AIM:
+### AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
 
-# ALGORITHM:
+### ALGORITHM:
 STEP 1:Read the given Data.
 STEP 2:Clean the Data Set using Data Cleaning Process.
 STEP 3:Apply Feature Encoding for the feature in the data set.
 STEP 4:Apply Feature Transformation for the feature in the data set.
 STEP 5:Save the data to the file.
 
-# FEATURE ENCODING:
+### FEATURE ENCODING:
 1. Ordinal Encoding
 An ordinal encoding involves mapping each unique label to an integer value. This type of encoding is really only appropriate if there is a known relationship between the categories. This relationship does exist for some of the variables in our dataset, and ideally, this should be harnessed when preparing the data.
 2. Label Encoding
@@ -20,17 +20,17 @@ Binary encoding converts a category into binary digits. Each binary digit create
 4. One Hot Encoding
 We use this categorical data encoding technique when the features are nominal(do not have any order). In one hot encoding, for each level of a categorical feature, we create a new variable. Each category is mapped with a binary variable containing either 0 or 1. Here, 0 represents the absence, and 1 represents the presence of that category.
 
-# Methods Used for Data Transformation:
-  # 1. FUNCTION TRANSFORMATION
+#### Methods Used for Data Transformation:
+  ## 1. FUNCTION TRANSFORMATION
 • Log Transformation
 • Reciprocal Transformation
 • Square Root Transformation
 • Square Transformation
-  # 2. POWER TRANSFORMATION
+  ## 2. POWER TRANSFORMATION
 • Boxcox method
 • Yeojohnson method
 
-# CODING AND OUTPUT:
+### CODING AND OUTPUT:
 
   ![image](https://github.com/kannan0071/INTRO-TO-DS/assets/119641638/28e5d3c6-25db-42ca-8aa2-1b1b44772eee)
 
@@ -73,7 +73,7 @@ We use this categorical data encoding technique when the features are nominal(do
   ![image](https://github.com/kannan0071/INTRO-TO-DS/assets/119641638/21f3f46b-6df2-4fa5-924b-708445ed22f9)
 
 
-# RESULT:
+### RESULT:
        Thus the program to read the given data and perform Feature Encoding and Transformation process and save the data to a file is created, executed and the output is verified successfully.
 
        
